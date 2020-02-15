@@ -1,0 +1,7 @@
+__pycache__/
+
+*.vtt
+*.srt
+
+# VS Code related files
+.vstags
